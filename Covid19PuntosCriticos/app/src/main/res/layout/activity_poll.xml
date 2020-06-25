@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.Poll">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:id="@+id/layoutMain"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <TextView
+                android:textColor="@color/colorAccent"
+                android:layout_margin="5dp"
+                android:fontFamily="sans-serif-black"
+                android:text="@string/symptoms"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </TextView>
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/layoutSymptoms"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </LinearLayout>
+
+
+
+            <Button
+                android:textColor="@color/colorWhite"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="@color/colorAccent"
+                android:text="@string/save_poll"
+                android:id="@+id/btn_save_poll"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </Button>
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

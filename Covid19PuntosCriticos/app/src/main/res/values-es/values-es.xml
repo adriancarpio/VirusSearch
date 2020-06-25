@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <string name="app_name">Virus Search</string>
+    <string name="information_login">Una vez que inicies sesion no podras cerrarla, esto es por seguridad de tus datos</string>
+    <string name="api_key_nasa">an1IMjVwogVGhmgvr7f0BgEu6u2g3YRW5J2qisFf</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Tablero</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_country" >Paises</string>
+    <string name="myDiagnosis">Mi Diagnostico</string>
+    <string name="Poll">Encuesta</string>
+    <string name="Info">Info</string>
+    <string name="fecha">Fecha </string>
+    <string name="search">Buscar..</string>
+    <string name="login_account">¿Ya tienes cuenta? Inicia sesión aquí </string>
+
+    <string name="step_register">Registrate con un correo electronico, ya sea outlook o gmail.\nTendra que ser un correo electronico valido de lo contrario no podra acceder</string>
+
+
+    <string name="text_home">encuentra información relevante dando click en las tarjetas</string>
+
+    <string name="diagnosis">Tus Sintomas</string>
+    <string name="meses">Dias</string>
+    <!-- Activity Login -->
+    <string name="btn_login">Iniciar session</string>
+    <string name="btn_registro">registrarse</string>
+
+
+    <!-- Activity Registro -->
+    <string name="btn_registro_activity">REGISTARSE</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="yes">Si</string>
+    <string name="No">No</string>
+
+
+    <string name="password">Contraseña</string>
+    <string name="email">Correo</string>
+    <!-- MENU -->
+    <string name="account">cuenta</string>
+
+    <string name="no_network">
+        Sin conexión a internet
+    </string>
+    <!-- POLL-->
+    <string name="diseases">indica si padeces alguna de estas enfermedades</string>
+    <string name="symptoms">has sentido alguno de estos síntomas hoy?</string>
+    <string name="basicInfo">responde estas preguntas de informacion basica</string>
+    <string name="save_poll">Guardar</string>
+    <!--DASHBOARD-->
+    <string name="textMainDashboard">COVID-19 Estadistica Global</string>
+    <string name="confirmed">Confirmados</string>
+    <string name="recovered">Recuperados</string>
+    <string name="deceased">Fallecidos</string>
+    <!-- Mensaje -->
+    <string name="saving">Guardando</string>
+
+
+    <string name="edad">Rango de edad</string>
+    <string name="genr">Genero</string>
+
+
+    <string name="vacios">por favor responde las preguntas</string>
+
+    <string name="text_primary_diagnosis">Diagnostico de tus sintomas durante este mes</string>
+
+
+
+
+
+
+
+    <string name="positives_symptomas">
+        Si tiene síntomas leves, como tos o fiebre leves, generalmente no es necesario que busque atención médica.
+        \n Quédese en casa, aíslese y vigile sus síntomas. Siga las orientaciones nacionales sobre el autoaislamiento.
+        \n Sin embargo, si vive en una zona con paludismo (malaria) o dengue, es importante que no ignore la fiebre.
+        \n Busque ayuda médica. Cuando acuda al centro de salud lleve mascarilla si es posible,
+        \n manténgase al menos a un metro de distancia de las demás personas y no toque las superficies con las manos.
+        \n En caso de que el enfermo sea un niño, ayúdelo a seguir este consejo.
+
+        \n Busque inmediatamente atención médica si tiene dificultad para respirar o siente dolor o presión en el pecho.
+        \n Si es posible, llame a su dispensador de atención de la salud con antelación para que pueda dirigirlo hacia el centro de salud adecuado.
+    </string>
+    <string name="negative_symptoms">
+
+        Practica la higiene respiratoria y de las manos esto es importante en TODO momento y la mejor forma de protegerse a sí mismo y a los demás.
+        \n
+        \n Cuando sea posible, mantenga al menos un metro de distancia entre usted y los demás.
+        \n Esto es especialmente importante si está al lado de alguien que esté tosiendo o estornudando.
+        \n Dado que es posible que algunas personas infectadas aún no presenten síntomas o que sus síntomas sean leves,
+        \n conviene que mantenga una distancia física con todas las personas si se encuentra en una zona donde circule el virus de la COVID‑19.
+    </string>
+
+    <string name="recomendation">
+        Los sintomas confirmados del covid 19 han sido 14, pero puedes ser asintomatico,
+        recuerda usar mascarilla y lavartelas manos frecuentemente
+    </string>
+
+
+    <string name="info_app">
+VirusSearch es una App que promete brindar información actualizada sobre las zonas de mayor infección de un virus especifico, en primera instancia este aplicativo se centrará en el Covid-19 por la coyuntura por la que se está atravesando, el aplicativo es de fácil comprensión e interactivo, los puntos claves a destacar son: la identificación de sectores de peligro a través de un mapa de calor según nivel de riesgo, información estadística oficial a nivel mundial, también el desarrollo de un autotriaje digital a través de un formulario realizado por los usuarios para identificar si portan el virus además estos pueden irá actualizando su estado de salud.
+    </string>
+    <string name="st_about_as">
+
+        Acerca de la app
+    </string>
+    <string name="director">
+        Director de proyecto
+    </string>
+    <string name="name_director">
+          \n- Jose Luis Tapia
+    </string>
+    <string name="desarrolladores">
+        Desarrolladores
+    </string>
+    <string name="name_dev">
+
+        \n- Anderson Javier Sinaluisa
+        \n
+        \n- Manuel Adrian Carpio
+        \n
+        \n- Drubber Elian Sanchez
+        \n
+    </string>
+    <string name="documentacion">
+        Documentacion
+    </string>
+    <string name="name_doc">
+
+        \n
+        \n - Kelly Daniela Mercado
+        \n
+        \n- Cristhofer Peralta
+        \n
+    </string>
+    <string name="colaboradores">
+        Colaboradores
+    </string>
+
+    <string name="name_cob">
+
+
+        \n
+        \n- Carla Nereida Utterman
+        \n
+        \n- Galo Andres Manzo
+
+
+    </string>
+    <string name="club">
+         Desarrollado por:
+        \n Club de programación Java ISTG
+    </string>
+    <string name="dev">
+
+        Credi
+    </string>
+    <string name="correo">
+       covid19pcec@gmail.com
+    </string>
+    <string name="asistent">
+        Contact
+    </string>
+
+    <!-- Slide Poll -->
+    <string name="title_activity_poll_slide">Slide</string>
+    <string name="text_slide_poll">
+        Necesitamos de tu ayuda para dar informacion de las zonas afectadas por el covid-19,por favor llena la siguiente encuesta
+    </string>
+    <string name="next">Siguiente  </string>
+
+
+
+    <string name="notificationPollTitle">
+
+        Realiza la encuesta
+
+    </string>
+
+    <string name="notificationPollDescription">
+        lleva el control de tus síntomas
+    </string>
+
+    <string name="gps_msj">
+
+        Virus Search necesita obtener tu ubicación
+    </string>
+
+    <string name="gps_des">
+tu ubicación servirá para dar información acerca de los puntos críticos
+    </string>
+
+    <string name="acept">
+        Aceptar
+    </string>
+    <string name="cancel">
+        Cancelar
+    </string>
+    <!-- app -->
+    <string name="version">V1.0 Beta</string>
+
+    <string name="negative_n_simptoms">
+    No presentas Sintomas
+    </string>
+</resources>
+
+

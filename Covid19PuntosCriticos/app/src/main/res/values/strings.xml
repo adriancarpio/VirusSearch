@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Virus Search</string>
+    <string name="information_login">Once the session starts you will not be able to close it, this is for the security of your data</string>
+    <string name="api_key_nasa">an1IMjVwogVGhmgvr7f0BgEu6u2g3YRW5J2qisFf</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_map">Map</string>
+    <string name="title_country" >Country</string>
+
+    <string name="login_account">Log In here</string>
+    <string name="search">Search...</string>
+    <string name="step_register">Sign up with an email, either outlook or gmail.\nIt will have to be a valid email address, otherwise you will not be able to access it</string>
+
+    <string name="fecha">Date </string>
+    <string name="myDiagnosis">My Diagnosis</string>
+    <string name="Poll">Poll</string>
+    <string name="Info">Info</string>
+
+
+    <!-- Login -->
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <!-- Activity Login -->
+    <string name="btn_login">Log in</string>
+    <string name="btn_registro">Sign up</string>
+
+
+    <!-- Activity Registro -->
+    <string name="btn_registro_activity">Sign up</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+
+    <!-- MENU -->
+    <string name="account">account</string>
+    <string name="text_home">find relevant information by clicking on the cards</string>
+
+    <string name="diagnosis">Your Symptoms</string>
+    <string name="meses">Days</string>
+    <!-- POLL-->
+    <string name="diseases">indicate if you have any of these diseases</string>
+    <string name="symptoms">have you felt any of these symptoms today?</string>
+    <string name="basicInfo">answer these basic information questions</string>
+    <string name="save_poll">Save</string>
+
+
+    <string name="no_network">
+        No Network
+    </string>
+
+
+    <!--DASHBOARD-->
+    <string name="textMainDashboard">COVID-19 Global Statistics</string>
+    <string name="confirmed">confirmed</string>
+    <string name="recovered">recovered</string>
+    <string name="deceased">deceased</string>
+    <!-- Mensaje -->
+    <string name="saving">Saving</string>
+    <string name="edad">Range range</string>
+    <string name="genr">Gender</string>
+
+
+
+    <string name="vacios">please answer the questions</string>
+    <string name="text_primary_diagnosis">Diagnosis of your symptoms during this month</string>
+
+
+    <string name="positives_symptomas">
+        If you have mild symptoms, such as a mild cough or fever, you generally do not need to seek medical attention.\n
+        Stay home, isolate yourself, and watch your symptoms. Follow national guidelines on self-isolation. \n
+        However, if you live in an area with malaria or dengue, it is important that you do not ignore fever.\n
+        Seek medical help. When you go to the health center wear a mask if possible, stay at least one meter away
+        from other people and do not touch the surfaces with your hands. In case the sick person is a child, help him to follow this advice.
+
+        \n Se medical attention immediately if you have trouble breathing or feel chest pain or pressure.
+        \n If possible, call your health care provider in advance so they can direct you to the right health center.
+
+
+    </string>
+
+    <string name="negative_symptoms">
+        Practicing respiratory and hand hygiene is important at ALL times and the best way to protect yourself and others. \n
+
+      Whenever possible, keep at least a meter of distance between you and others.
+        \nThis is especially important if you are next to someone who is coughing or sneezing.
+        \nBecause some infected people may not yet have symptoms or their symptoms may be mild,
+        \nyou should keep a physical distance from everyone if you are in an area where the COVID-19 virus is circulating.
+    </string>
+    <string name="recomendation">
+        The confirmed symptoms of covid 19 have been 14, but you can be asymptomatic,
+        remember to wear a mask and wash your hands frequently
+    </string>
+
+
+
+
+    <!-- About -->
+    <string name="info_app" translatable="true">
+        VirusSearch is an App that promises to provide updated information on the areas of greatest infection of a specific virus,
+        in the first stay this application will focus on the Covid-19\nDue to the current situation,
+        the application is easy to understand and interactive,
+        The key points to highlight are: the identification of danger sectors through a heat map according to level of risk,
+        official statistical information worldwide, also the development of digital self-management through a form made by users to identify if they are carrying the virus,
+        they can also go updating your health status.
+    </string>
+
+
+
+
+    <string name="st_about_as">
+        About
+    </string>
+    <string name="director">
+        Director de proyecto
+    </string>
+    <string name="name_director">
+          \n- Jose Luis Tapia
+    </string>
+    <string name="desarrolladores">
+        Desarrolladores
+    </string>
+    <string name="name_dev">
+
+        \n- Anderson Javier Sinaluisa
+        \n
+        \n- Manuel Adrian Carpio
+        \n
+        \n- Drubber Elian Sanchez
+        \n
+    </string>
+    <string name="documentacion">
+        Documentacion
+    </string>
+    <string name="name_doc">
+
+        \n - Kelly Daniela Mercado
+        \n
+        \n- Cristhofer Peralta
+
+    </string>
+    <string name="colaboradores">
+        Colaboradores
+    </string>
+
+    <string name="name_cob">
+
+
+        \n
+        \n- Carla Nereida Utterman
+        \n
+        \n- Galo Andres Manzo
+
+
+    </string>
+
+    <string name="club">
+
+        By:
+        \n Club de programación Java ISTG
+    </string>
+    <string name="dev">
+
+        Creditos
+    </string>
+    <string name="correo">
+       covid19pcec@gmail.com
+    </string>
+    <string name="asistent">
+        Contact
+    </string>
+    <!-- Slide Poll -->
+    <string name="title_activity_poll_slide">Slide</string>
+    <string name="text_slide_poll">
+        We need your help to give information on the areas affected by covid-19,
+         please fill out the following survey
+    </string>
+    <string name="next">Next  </string>
+
+
+    <string name="notificationPollTitle">
+
+        take the survey
+
+    </string>
+
+    <string name="notificationPollDescription">
+        take control of your symptoms
+    </string>
+
+    <string name="gps_msj">
+
+        Virus Search need to get your location
+    </string>
+
+    <string name="gps_des">
+your location will serve to give information about the critical points
+    </string>
+
+    <string name="acept">
+        To accept
+    </string>
+    <string name="cancel">
+        Cancel
+    </string>
+
+
+
+    <!-- app -->
+    <string name="version">V1.0 Beta</string>
+
+
+    <!-- DIAGNOSTICO-->
+    <string name="start_details_symptoms">
+
+        El numero de sintomas que presentas es
+    </string>
+
+    <string name="positive_n_simptoms">
+
+    </string>
+    <string name="negative_n_simptoms">
+    No presentas Sintomas
+    </string>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virus Search</string>
+    <string name="information_login">Una volta avviata la sessione non sarai in grado di chiuderla, questo è per la sicurezza dei tuoi dati</string>
+    <string name="api_key_nasa">an1IMjVwogVGhmgvr7f0BgEu6u2g3YRW5J2qisFf</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Pannello</string>
+    <string name="title_map">Map</string>
+    <string name="title_country" >Nazione</string>
+
+    <string name="fecha">Data </string>
+    <string name="myDiagnosis">La mia diagnosi</string>
+    <string name="Poll">Sondaggio</string>
+    <string name="Info">Info</string>
+
+
+    <!-- Login -->
+    <string name="password">Parola d ordine</string>
+    <string name="email">Email</string>
+    <!-- Activity Login -->
+    <string name="btn_login">Accesso</string>
+    <string name="btn_registro">Iscriviti</string>
+
+
+    <!-- Activity Registro -->
+    <string name="btn_registro_activity">Iscriviti</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">impostazioni</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galleria</string>
+    <string name="menu_slideshow">Presentazione</string>
+
+    <string name="home_second">Secondo casa</string>
+    <string name="title_notifications">notifiche</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="yes">sì</string>
+    <string name="No">No</string>
+
+    <!-- MENU -->
+    <string name="account">account</string>
+    <string name="text_home">trova le informazioni pertinenti facendo clic sulle carte</string>
+
+    <string name="diagnosis">I tuoi sintomi</string>
+    <string name="meses">giorni</string>
+    <!-- POLL-->
+    <string name="diseases">indica se hai una di queste malattie
+</string>
+    <string name="symptoms">hai sentito qualcuno di questi sintomi oggi?</string>
+    <string name="basicInfo">rispondere a queste domande di informazioni di base</string>
+    <string name="save_poll">Salva</string>
+
+
+    <!--DASHBOARD-->
+    <string name="textMainDashboard">Statistiche globali COVID-19</string>
+    <string name="confirmed">confermat</string>
+    <string name="recovered">recuperat</string>
+    <string name="deceased">decedut</string>
+    <!-- Mensaje -->
+    <string name="saving">Salvataggio</string>
+    <string name="edad">Gamma gamma</string>
+    <string name="genr">Genere</string>
+
+
+
+    <string name="vacios">please answer the questions</string>
+    <string name="text_primary_diagnosis">Diagnosi dei sintomi durante questo mese</string>
+
+
+    <string name="positives_symptomas">
+
+Se hai sintomi lievi, come tosse lieve o febbre, generalmente non hai bisogno di consultare un medico. \ N
+        Resta a casa, isolati e osserva i tuoi sintomi. Seguire le linee guida nazionali sull autoisolamento. \ n
+        Tuttavia, se vivi in ​​una zona con malaria o dengue, è importante non ignorare la febbre. \ N
+        Cerca assistenza medica. Quando vai al centro benessere, indossa una maschera, se possibile, rimani ad almeno un metro di distanza
+        da altre persone e non toccare le superfici con le mani. Nel caso in cui il malato sia un bambino, aiutalo a seguire questo consiglio.
+
+        \ N Consultare immediatamente un medico in caso di difficoltà respiratorie o sensazione di dolore o pressione al torace.
+        \ n Se possibile, chiama il tuo fornitore di assistenza sanitaria in anticipo in modo che possano indirizzarti al giusto centro sanitario.
+    </string>
+
+
+    <string name="recomendation">
+       I sintomi confermati di covid 19 sono stati 14, ma puoi essere asintomatico,
+        ricordati di indossare una maschera e lavarti spesso le mani
+    </string>
+
+
+
+
+    <!-- About -->
+
+    <string name="st_about_as">
+        About
+    </string>
+
+
+
+    <!-- Slide Poll -->
+    <string name="title_activity_poll_slide">Slide</string>
+    <string name="text_slide_poll">
+      Abbiamo bisogno del tuo aiuto per fornire informazioni sulle aree colpite da covid-19,
+         compila il seguente sondaggio
+    </string>
+    <string name="next">Next  </string>
+</resources>

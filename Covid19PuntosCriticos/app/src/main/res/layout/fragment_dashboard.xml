@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main.ui.dashboard.DashboardFragment">
+
+    <LinearLayout
+        android:id="@+id/dashboard_layout"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="600dp">
+
+        <TextView
+            android:background="@color/colorAccent"
+            android:id="@+id/text_dashboard"
+            android:fontFamily="@font/poppins_bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pieChart"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:layout_weight="1" />
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_weight="1"
+            android:foregroundGravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/lineChart"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="25sp"
+        android:paddingLeft="25sp"
+        android:paddingRight="25sp"
+        android:paddingTop="15sp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:id="@+id/tvLabelTotalConfirmed"
+            android:textColor="#000000"
+            android:textSize="10sp"
+            android:fontFamily="@font/poppins_bold"
+            tools:text="162387"
+            android:paddingBottom="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins_bold"
+            android:id="@+id/tvTotalDeaths"
+            android:textColor="#ff0000"
+            android:textSize="10sp"
+            tools:text="75648"
+            android:paddingBottom="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="#024A86"
+            android:textSize="10sp"
+            android:id="@+id/tvTotalRecovered"
+            tools:text="75938"
+            android:paddingBottom="16dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"/>
+
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:layout_centerInParent="true"
+        android:id="@+id/progress_circular_home"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@drawable/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+<TextView
+    android:id="@+id/net_work"
+    android:textSize="20dp"
+    android:foregroundGravity="center"
+    android:gravity="center"
+    android:textColor="@color/colorISTG"
+    android:text="@string/no_network"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</TextView>
+
+</RelativeLayout>
